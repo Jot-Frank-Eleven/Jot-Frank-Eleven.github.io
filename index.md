@@ -7,7 +7,7 @@ Unser Held ist ein lebenslustiger junger Mann.
 * mutig
 * anmutig
 * mutterliebend
-* mutiert
+* muskulös
 
 Der Held sagte einst:
 
